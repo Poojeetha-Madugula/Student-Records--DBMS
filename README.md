@@ -6,7 +6,7 @@ This repository hosts a comprehensive desktop application built using Python, SQ
 
 The application facilitates Create, Read, Update, and Delete (CRUD) operations, providing a seamless user experience for administrators or educators to efficiently handle student data.
 
-Summary:
+**Summary:**
 
 This desktop application is a robust solution for managing student records, offering essential CRUD functionalities to streamline administrative tasks. 
 
